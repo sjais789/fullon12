@@ -1,10 +1,9 @@
-## Use Azure app service editor
+###fullon12
 
-1. make code change in the online editor
+A Grievane system bot developed in Ernst and Young Hackathon'17 for real-estate use case using the Microsoft Bot Framework. 
+Datasets was provided by E&Y org.
+JUST SEARCH ON SKYPE: fullon12 and chat right now!!
 
-Your code changes go live as the code changes are saved.
-
-## Use Visual Studio Code
 
 ### Build and debug
 1. download source code zip and extract source in local folder
@@ -18,10 +17,5 @@ Your code changes go live as the code changes are saved.
 ```
 npm run azure-publish
 ```
-
-## Use continuous integration
-
-If you have setup continuous integration, then your bot will automatically deployed when new changes are pushed to the source repository.
-
 
 
